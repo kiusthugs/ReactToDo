@@ -3,6 +3,11 @@
 @import 'button.css';
 @import 'recipe.css';
 @import 'ingredient-list.css';
+@import 'recipe-edit.css';
+
+* {
+    box-sizing: border-box;
+}
 
 html {
     font-size: 25px;
